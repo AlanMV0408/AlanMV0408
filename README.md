@@ -2,7 +2,7 @@
 
 Computer Engineering Student
 
-## 🚀 Skills*
+## 🚀 Skills
 
 - **FRONT**: HTML/CSS/JS/REACT.
 - **SOFTWARE**: C++
