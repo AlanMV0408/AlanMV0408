@@ -1,4 +1,5 @@
-## Alan Mendez 
+## Dev. AlanMV
+
 Estudiante de Ingeniería en Informática 
 
 
@@ -14,5 +15,5 @@ Estudiante de Ingeniería en Informática
 
 ## 🚀 Tecnologías Utilizadas
 
-- **Frontend**: HTML5, CSS3.
-- **Software**: C++
+- **FRONT**: HTML/CSS/JS/REACT.
+- **SOFTWARE**: C++
