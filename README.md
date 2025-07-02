@@ -1,19 +1,8 @@
-## Dev. AlanMV
+## DEV. AlanMV
 
-Estudiante de Ingeniería en Informática 
+Computer Engineering Student
 
-
-## ✌️ Sobre Mi
-
-- **Hobbies**:
-  - Programar.
-  - Ir al cine.
-  - Hacer ejercicio.
-- **Skills**:
-  - Trabajo en equipo.
-  - Comunicación
-
-## 🚀 Tecnologías Utilizadas
+## 🚀 Skills*
 
 - **FRONT**: HTML/CSS/JS/REACT.
 - **SOFTWARE**: C++
