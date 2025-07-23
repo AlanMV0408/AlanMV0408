@@ -20,8 +20,6 @@ Soy estudiante de Ingenieria en Informatica en [UDEG](https://www.udg.mx/es)
    <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
    <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
 
-
-
 - **Softwares and Tools**:
 
     <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
@@ -29,3 +27,13 @@ Soy estudiante de Ingenieria en Informatica en [UDEG](https://www.udg.mx/es)
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 
 
+#### Stats
+
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlanMV0408&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
+
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlanMV0408&layout=compact&theme=onedark" />
+
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanMV0408&theme=onedark" alt="AlanMV0408" />
+
+
+  
