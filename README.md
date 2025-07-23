@@ -2,7 +2,7 @@
 
 
 ##  About me
-Soy estudiante de Ingenieria en Informatica en [UDEG](https://www.udg.mx/es)
+Computer Engineering student at [UDEG](https://www.udg.mx/es)
 
 - ⭐ Github Star ⭐ 
 
