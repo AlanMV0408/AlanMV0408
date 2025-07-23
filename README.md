@@ -7,8 +7,7 @@ Soy estudiante de Ingenieria en Informatica en [UDEG](https://www.udg.mx/es)
 - ⭐ Github Star ⭐ 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b
-> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills 
 <p align="center">
 
 - **Languages**:
@@ -30,9 +29,9 @@ Soy estudiante de Ingenieria en Informatica en [UDEG](https://www.udg.mx/es)
 
 #### Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlanMV0408&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" /> 
+<img height="100em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlanMV0408&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" /> 
 
-<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlanMV0408&layout=compact&theme=onedark" />
+<img height="100em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlanMV0408&layout=compact&theme=onedark" />
 
 
 
