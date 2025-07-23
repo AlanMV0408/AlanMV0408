@@ -29,9 +29,9 @@ Soy estudiante de Ingenieria en Informatica en [UDEG](https://www.udg.mx/es)
 
 #### Stats
 
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlanMV0408&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlanMV0408&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 
-  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlanMV0408&layout=compact&theme=onedark" />
+<img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlanMV0408&layout=compact&theme=onedark" />
 
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanMV0408&theme=onedark" alt="AlanMV0408" />
 
