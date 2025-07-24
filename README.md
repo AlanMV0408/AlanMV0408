@@ -1,10 +1,13 @@
 ### <h1 align="center">Hi, I´m Alan Mendez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
 
-##  About me
+##  About me 👨🏻‍💻
 Computer Engineering student at [UDEG](https://www.udg.mx/es)
+- 🧑🏽‍💻Studying for competitive programming.
 
-- ⭐ Github Star ⭐ 
+- 💻 I'm deepening my skills in algorithms and programming with C++, leveraging its power for solving mathematical challenges and building logical problem-solving strategies.
+
+- 🚀 I'm motivated by the desire to develop, learn, and contribute to innovative projects.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills 
